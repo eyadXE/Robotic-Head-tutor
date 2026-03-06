@@ -1,8 +1,14 @@
 # 🤖 AI Tutor Robotic Head
 
-> **Best Special Project** — Modern Sciences and Arts University | Computer Vision Track (All Four Academic Years)
+> **Best Special Project** — Modern Sciences and Arts University | Computer Science Track (All Four Academic Years)
 
 ---
+
+![Robot Head](img1.jpeg)
+![Robot Head](img2.jpeg)
+![Robot Head](img3.jpeg)
+![Robot Head](img4.jpeg)
+
 
 ## 📖 Overview
 
@@ -92,4 +98,4 @@ Responsible for designing and implementing the full machine learning architectur
 ## 🏆 Recognition
 
 🥇 **Best Special Project** — Modern Sciences and Arts University  
-📌 Computer Vision Track — All Four Academic Years
+📌 Computer Science Track — All Four Academic Years
