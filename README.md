@@ -6,8 +6,8 @@
 
 ![Robot Head](img1.jpeg)
 ![Robot Head](img2.jpeg)
-![Robot Head](img3.jpeg)
-![Robot Head](img4.jpeg)
+![Robot Head](img3.jpg)
+![Robot Head](img4.jpg)
 
 
 ## 📖 Overview
